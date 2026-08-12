@@ -1,1 +1,1 @@
-# OCR_pipline_proto
+# OCR_pipline_prototype
