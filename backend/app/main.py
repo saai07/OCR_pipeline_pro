@@ -13,6 +13,14 @@ async def lifespan(app: FastAPI):
     """
     # Startup: Initialize shared HTTP connection client for vLLM
     vllm_client.init_client()
+    
+    # Pre-initialize Docling and download models on startup to show download progress in console
+    try:
+        from app.services.docling_processor import docling_processor
+        docling_processor.initialize_converter()
+    except Exception as doc_err:
+        print(f"Warning: Failed to pre-initialize Docling on startup: {doc_err}")
+        
     yield
     # Shutdown: Clean up client connections
     await vllm_client.close_client()

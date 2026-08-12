@@ -7,11 +7,15 @@ import {
   FileText, 
   Terminal, 
   Clock, 
-  Layers
+  Layers,
+  List
 } from 'lucide-react';
 
 export default function SideBySideViewer({ file, tag, result, status }) {
   const [copied, setCopied] = useState(false);
+  const [isOutlineOpen, setIsOutlineOpen] = useState(true);
+  const [activeSection, setActiveSection] = useState(null);
+  const [highlightedSectionId, setHighlightedSectionId] = useState(null);
 
   // Generate original PDF URL object
   const fileUrl = useMemo(() => {
@@ -35,6 +39,39 @@ export default function SideBySideViewer({ file, tag, result, status }) {
     }
   };
 
+  const handleSectionClick = (idx) => {
+    setActiveSection(idx);
+    const sectionId = `section-${idx}`;
+    const element = document.getElementById(sectionId);
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      setHighlightedSectionId(idx);
+      setTimeout(() => {
+        setHighlightedSectionId(null);
+      }, 3000);
+    }
+  };
+
+  const renderChildContent = (child) => {
+    if (!child.content) return null;
+    const isHtml = child.content.trim().startsWith('<') || child.content.trim().includes('</');
+    
+    if (child.type === 'Table' || isHtml) {
+      return (
+        <div 
+          className="rendered-html-body"
+          dangerouslySetInnerHTML={{ __html: child.content }} 
+        />
+      );
+    }
+    
+    return (
+      <ReactMarkdown remarkPlugins={[remarkGfm]}>
+        {child.content}
+      </ReactMarkdown>
+    );
+  };
+
   if (!file && !result) {
     return (
       <div className="viewer-placeholder">
@@ -53,6 +90,17 @@ export default function SideBySideViewer({ file, tag, result, status }) {
           <FileText size={18} />
           <span>{file ? file.name : 'Processed Result'}</span>
           {tag && <span className="header-tag-badge">{tag.toUpperCase()}</span>}
+          {result && result.sections && result.sections.length > 0 && (
+            <button 
+              onClick={() => setIsOutlineOpen(!isOutlineOpen)} 
+              className="outline-toggle-btn"
+              style={{ marginLeft: '16px' }}
+              title="Toggle Document Outline Sidebar"
+            >
+              <List size={14} />
+              <span>{isOutlineOpen ? 'Hide Outline' : 'Show Outline'}</span>
+            </button>
+          )}
         </div>
         
         {result && (
@@ -73,8 +121,31 @@ export default function SideBySideViewer({ file, tag, result, status }) {
         )}
       </div>
 
-      {/* Main Panels */}
-      <div className="panels-container">
+      {/* Main Panels with Outline Sidebar wrapper */}
+      <div className="panels-container-with-outline">
+        {/* Outline Sidebar */}
+        {result && result.sections && result.sections.length > 0 && (
+          <div className={`outline-sidebar ${isOutlineOpen ? '' : 'collapsed'}`}>
+            <div className="outline-header">
+              <span>Document Outline</span>
+            </div>
+            <ul className="outline-list">
+              {result.sections.map((sec, idx) => (
+                <li key={idx} style={{ marginBottom: '4px' }}>
+                  <button
+                    className={`outline-item ${activeSection === idx ? 'active' : ''}`}
+                    onClick={() => handleSectionClick(idx)}
+                    title={sec.section_title}
+                  >
+                    {sec.section_title}
+                  </button>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+
+        <div className="panels-container">
         
         {/* Left Panel: Original PDF Viewer (Native Browser PDF renderer) */}
         <div className="panel pdf-panel">
@@ -132,6 +203,38 @@ export default function SideBySideViewer({ file, tag, result, status }) {
                 </div>
                 <p>Waiting for model transcription details...</p>
               </div>
+            ) : result && result.sections && result.sections.length > 0 ? (
+              <div className="sections-container">
+                {result.sections.map((sec, idx) => (
+                  <div 
+                    key={idx} 
+                    id={`section-${idx}`} 
+                    className={`section-block ${highlightedSectionId === idx ? 'active-section-highlight' : ''}`}
+                    style={{ 
+                      marginBottom: '24px', 
+                      padding: '16px', 
+                      borderRadius: '6px',
+                      borderLeft: activeSection === idx ? '3px solid var(--primary)' : '1px solid var(--border-color)',
+                      borderTop: '1px solid var(--border-color)',
+                      borderRight: '1px solid var(--border-color)',
+                      borderBottom: '1px solid var(--border-color)',
+                      background: 'var(--bg-surface)',
+                      transition: 'all 0.3s ease'
+                    }}
+                  >
+                    <h3 className="section-block-title" style={{ fontSize: '15px', fontWeight: '700', marginBottom: '16px', color: 'var(--text-primary)', borderBottom: '1px solid var(--border-color)', paddingBottom: '8px' }}>
+                      {sec.section_title}
+                    </h3>
+                    <div className="section-block-children">
+                      {sec.children.map((child, cIdx) => (
+                        <div key={cIdx} className="child-block" style={{ marginBottom: '14px' }}>
+                          {renderChildContent(child)}
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                ))}
+              </div>
             ) : result && result.markdown ? (
               result.markdown.trim().startsWith('<') || result.markdown.trim().includes('</') ? (
                 <div 
@@ -152,6 +255,7 @@ export default function SideBySideViewer({ file, tag, result, status }) {
           </div>
         </div>
 
+      </div>
       </div>
     </div>
   );

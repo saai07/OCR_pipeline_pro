@@ -6,7 +6,7 @@ import StatusBanner from './components/StatusBanner';
 import SideBySideViewer from './components/SideBySideViewer';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { Send, Eye, Copy, Check, X, FileText, Download } from 'lucide-react';
+import { Send, Eye, Copy, Check, X, FileText, Download, Cpu } from 'lucide-react';
 
 /**
  * App - Main root component of the React application.
@@ -16,6 +16,7 @@ import { Send, Eye, Copy, Check, X, FileText, Download } from 'lucide-react';
 export default function App() {
   const [tag, setTag] = useState('');
   const [file, setFile] = useState(null);
+  const [engine, setEngine] = useState('chandra');
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [copied, setCopied] = useState(false);
   const { status, result, error, submit } = useOcr();
@@ -35,7 +36,7 @@ export default function App() {
   const handleSubmit = (e) => {
     e.preventDefault();
     if (tag && file && status !== 'loading') {
-      submit(tag, file);
+      submit(tag, file, engine);
     }
   };
 
@@ -76,6 +77,23 @@ export default function App() {
         <div className="control-panel">
           <form onSubmit={handleSubmit} className="ocr-form">
             <div className="inputs-row">
+              <div className="tag-selector-container">
+                <label htmlFor="engine-select" className="input-label">
+                  <Cpu size={16} className="label-icon" />
+                  Extraction Engine
+                </label>
+                <div className="select-wrapper">
+                  <select
+                    id="engine-select"
+                    value={engine}
+                    onChange={(e) => setEngine(e.target.value)}
+                    className="custom-select"
+                  >
+                    <option value="chandra">Chandra-OCR (vLLM / GPU)</option>
+                    <option value="docling">Docling-OCR (ONNX / CPU)</option>
+                  </select>
+                </div>
+              </div>
               <TagSelector value={tag} onChange={setTag} />
               <PdfUploader file={file} setFile={setFile} />
             </div>

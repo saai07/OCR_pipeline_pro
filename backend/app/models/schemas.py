@@ -1,3 +1,4 @@
+from typing import List, Dict
 from pydantic import BaseModel, Field
 
 class OcrRequest(BaseModel):
@@ -10,3 +11,4 @@ class OcrResponse(BaseModel):
     pages_processed: int = Field(..., description="Number of pages converted and processed")
     model_used: str = Field(..., description="The name of the LLM model used for extraction")
     processing_time_ms: float = Field(..., description="Total time taken to process the request in milliseconds")
+    sections: List[Dict] = Field(default=[], description="The parsed hierarchical layout sections tree")

@@ -52,9 +52,9 @@ async def build_chunk_payload(
             }
         })
 
-    # Construct messages list, omitting the system prompt for chandra models
+    # Construct messages list, omitting the system prompt for chandra and docling models
     messages = []
-    if system_prompt and "chandra" not in model_name.lower():
+    if system_prompt and "chandra" not in model_name.lower() and "docling" not in model_name.lower():
         messages.append({
             "role": "system",
             "content": system_prompt

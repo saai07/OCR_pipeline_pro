@@ -1,0 +1,1852 @@
+[
+  {
+    "section_title": "Document Overview",
+    "bbox": "",
+    "children": [
+      {
+        "type": "Image",
+        "bbox": "138 21 277 70",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "368 18 710 60",
+        "content": "<p>9M INDIA LIMITED<br></br>\n  Paraswani Road, N.H. - 53, Birkoul, Mahasamund<br></br>\n  CC-493445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "400 21 625 62",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "708 28 915 55",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "477 71 725 86",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "115 88 905 195",
+        "content": "<table border=\"1\">\n<tr>\n<th colspan=\"3\">PRODUCT NAME</th>\n<td>METRONIDAZOLE VAGINAL GEL USP</td>\n</tr>\n<tr>\n<th>MFR NO.</th>\n<td>MFR/BMR/FGS20018/00</td>\n<th>SUPERSEDES</th>\n<td>Nil</td>\n</tr>\n<tr>\n<th>ISSUE DATE</th>\n<td></td>\n<th>EFFECTIVE DATE</th>\n<td>09 APR 2025</td>\n</tr>\n<tr>\n<th>REVISION NO</th>\n<td>NA</td>\n<td></td>\n<td></td>\n</tr>\n</table>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "803 185 905 199",
+        "content": "<p>Page 1 of 31</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "220 435 815 535",
+        "content": "<img alt=\"MASTER FORMULA RECORD banner\"></img>"
+      },
+      {
+        "type": "Table",
+        "bbox": "115 773 915 882",
+        "content": "<table border=\"1\">\n<thead>\n<tr>\n<th></th>\n<th>PREPARED BY</th>\n<th>CHECKED BY</th>\n<th>APPROVED BY</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>NAME</th>\n<td>Sridharanish Sethi</td>\n<td>Prakash Kumar</td>\n<td>T. P. Pandey</td>\n</tr>\n<tr>\n<th>DESIGNATION</th>\n<td>OFFICER</td>\n<td>Manager</td>\n<td>Manager</td>\n</tr>\n<tr>\n<th>DEPARTMENT</th>\n<td>Production</td>\n<td>Production</td>\n<td>QA</td>\n</tr>\n<tr>\n<th>SIGNATURE</th>\n<td>Sridharanish</td>\n<td>Prakash</td>\n<td>T. P. Pandey</td>\n</tr>\n<tr>\n<th>DATE</th>\n<td>09/04/2025</td>\n<td>09/04/2025</td>\n<td>09/04/2025</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "Text",
+        "bbox": "294 892 737 906",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "146 18 284 67",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "376 16 718 59",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswan Road, NH-58, Birtoni, Mahasamund<br></br>CC-193446</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "422 24 646 62",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "718 24 916 52",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "484 69 733 83",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "121 86 906 195",
+        "content": "<table border=\"1\"><tr><td colspan=\"4\"><b>PRODUCT NAME</b></td><td colspan=\"4\"><b>METRONIDAZOLE VAGINAL GEL USP</b></td></tr><tr><td colspan=\"2\"><b>MFR NO.</b></td><td colspan=\"2\">MFR/BMR/FGS20018/00</td><td colspan=\"2\"><b>SUPERSEDES</b></td><td colspan=\"2\">Nil</td></tr><tr><td colspan=\"2\"><b>ISSUE DATE</b></td><td colspan=\"2\"></td><td colspan=\"2\"><b>EFFECTIVE DATE</b></td><td colspan=\"2\"><b>09 APR 2025</b></td></tr><tr><td colspan=\"2\"><b>REVISION NO</b></td><td colspan=\"2\">NA</td><td colspan=\"2\"></td><td colspan=\"2\"></td></tr></table>"
+      },
+      {
+        "type": "Text",
+        "bbox": "809 184 906 198",
+        "content": "<p>Page 2 of 31</p>"
+      },
+      {
+        "type": "Table",
+        "bbox": "128 222 893 851",
+        "content": "<table border=\"1\"><thead><tr><th>Sr. No.</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>Cover Page</td></tr><tr><td>2</td><td>Content</td></tr><tr><td>3</td><td>Product information</td></tr><tr><td>4</td><td>Master Formula</td></tr><tr><td>5</td><td>Packing order</td></tr><tr><td>6</td><td>List of equipments used in manufacturing</td></tr><tr><td>7</td><td>Instructions and precautions to be taken during manufacturing and storage</td></tr><tr><td>8</td><td>Manufacturing instructions along with control parameter for critical processes</td></tr><tr><td>9</td><td>In process testing and release</td></tr><tr><td>10</td><td>Yield statement</td></tr><tr><td>11</td><td>Testing specification of Raw Material, Semi Finished & Finished stages</td></tr><tr><td>12</td><td>Testing specification of Packing Material (Sale & PS)</td></tr><tr><td>13</td><td>Approved specimen samples of printed packing material</td></tr><tr><td>14</td><td>Product History</td></tr></tbody></table>"
+      },
+      {
+        "type": "Text",
+        "bbox": "295 891 740 907",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "143 20 283 70",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "373 20 718 62",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswan Road, N.R. - 33, Birkoti, Mahasamund<br></br>CG-495445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "422 21 646 62",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "700 21 910 62",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "481 74 731 89",
+    "children": [
+      {
+        "type": "Text",
+        "bbox": "125 103 634 121",
+        "content": "<p>PRODUCT NAME METRONIDAZOLE VAGINAL GEL USP</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "125 123 750 141",
+        "content": "<p>MFR NO. MFR/BMR/FGS20018/00 SUPERSEDES Nil</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "125 143 885 175",
+        "content": "<p>ISSUE DATE EFFECTIVE DATE 09 APR 2025</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "125 163 343 180",
+        "content": "<p>REVISION NO NA</p>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "808 189 907 204",
+        "content": "<p>Page 3 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "PRODUCT INFORMATION",
+    "bbox": "383 514 643 566",
+    "children": [
+      {
+        "type": "Page-Footer",
+        "bbox": "285 894 730 911",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "143 21 283 71",
+        "content": "<p>9M</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "374 21 718 64",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswani Road, NH-33, Bikaner, Rajasthan<br></br>CG-493445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "438 21 666 64",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "688 47 896 78",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "481 76 730 92",
+    "children": [
+      {
+        "type": "Text",
+        "bbox": "121 104 634 124",
+        "content": "<p>PRODUCT NAME : METRONIDAZOLE VAGINAL GEL USP</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "121 124 748 144",
+        "content": "<p>MFR NO. : MFR/BMR/FGS20018/00 SUPERSEDES : Nil</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "121 144 875 176",
+        "content": "<p>ISSUE DATE : EFFECTIVE DATE : 09 APR 2025</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "121 164 343 181",
+        "content": "<p>REVISION NO : NA</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "803 192 907 208",
+        "content": "<p>Page 4 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "Product Information",
+    "bbox": "444 239 601 255",
+    "children": [
+      {
+        "type": "Text",
+        "bbox": "121 271 656 289",
+        "content": "<p>1. Product Name : Metronidazole Vaginal Gel USP</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "121 299 704 320",
+        "content": "<p>2. Generic Name : Metronidazole Vaginal Gel 0.75% w/w</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "121 331 508 350",
+        "content": "<p>3. Product Code : FGS20018</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "121 362 459 381",
+        "content": "<p>4. Dosage Form : Gel</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "121 398 677 447",
+        "content": "<p>5. Label Claim :<br></br>Metronidazole USP.....0.75% w/w<br></br>Excipients..... q. s</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "121 461 669 482",
+        "content": "<p>6. Molecular Weight : Metronidazole USP- 171.15 g/mol</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "121 495 521 513",
+        "content": "<p>7. Therapeutic Category : Antibacterial</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "121 526 713 547",
+        "content": "<p>8. Shelf life : 36 months from the date of manufacture.</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "121 560 896 590",
+        "content": "<p>9. Storage Conditions : Store at controlled room temperature 15°C to 30°C. Protect from freezing.</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "121 601 538 619",
+        "content": "<p>10. Manufacturing Lic. No. : CG/25/02/2022</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "121 633 498 650",
+        "content": "<p>11. Standard Batch Size : 5000 nos.</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "118 664 867 709",
+        "content": "<p>12. Packing Presentation :<br></br>30 g soft mass filled in a printed lami tube<br></br>01 filled printed lami tube in a carton with 1leaflet 5 applicator<br></br>13 cartons in a shipper</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "281 895 726 914",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "141 21 281 71",
+        "content": "<p>9M</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "372 21 714 66",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswari Road, NH-53, Birkon, Mahasamund<br></br>CG-493445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "441 21 666 66",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "714 39 914 66",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "479 76 728 93",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "118 103 905 195",
+        "content": "<table border=\"1\"><tr><td>PRODUCT NAME</td><td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td></tr><tr><td>MFR NO.</td><td>MFR/BMR/FGS20018/00</td><td>SUPERSEDES</td><td>Nil</td></tr><tr><td>ISSUE DATE</td><td></td><td>EFFECTIVE DATE</td><td>09 APR 2025</td></tr><tr><td>REVISION NO</td><td>NA</td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "803 193 903 209",
+        "content": "<p>Page 5 of 31</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "205 461 796 570",
+        "content": "<img alt=\"A decorative banner with the text 'MASTER FORMULA' in bold, black, uppercase letters. The banner is stylized with triangular ends and a central rectangular section.\"></img>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "274 894 718 915",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "139 24 279 73",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "370 20 714 62",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswani Road, NH-23, Birkoni, Mahasamund<br></br>CG-140445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "438 21 666 62",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "725 36 930 64",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "478 74 727 88",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "117 104 903 200",
+        "content": "<table border=\"1\"><tr><td>PRODUCT NAME</td><td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td></tr><tr><td>MFR NO.</td><td>MFR/BMR/FGS20018/00</td><td>SUPERSEDES</td><td>Nil</td></tr><tr><td>ISSUE DATE</td><td></td><td>EFFECTIVE DATE</td><td>09 APR 2025</td></tr><tr><td>REVISION NO</td><td>NA</td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Text",
+        "bbox": "805 187 903 202",
+        "content": "<p>Page 6 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "Master Formula for Raw Material",
+    "bbox": "382 254 637 268",
+    "children": [
+      {
+        "type": "Text",
+        "bbox": "133 290 344 306",
+        "content": "<p>Batch Size: 5000 nos./150 kg</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "133 308 328 322",
+        "content": "<p>Product Code: FGS20018</p>"
+      },
+      {
+        "type": "Table",
+        "bbox": "121 334 895 656",
+        "content": "<table border=\"1\"><thead><tr><th>Sr. No.</th><th>Item code</th><th>Ingredients</th><th>Std.</th><th>Std. Quantity</th><th>Quantity per 30 gm</th><th>Overages (%)</th></tr></thead><tbody><tr><td>1.</td><td>RM000149</td><td>METRONIDAZOLE USP</td><td>USP</td><td>1.125 kg</td><td>0.225</td><td>0.00</td></tr><tr><td>2.</td><td>RM000638</td><td>MONO PROPYLENE GLYCOL</td><td>USP</td><td>15.000 kg</td><td>3.000</td><td>0.00</td></tr><tr><td>3.</td><td>RM000016</td><td>METHYL PARABEN</td><td>USP</td><td>0.150 kg</td><td>0.030</td><td>0.00</td></tr><tr><td>4.</td><td>RM000593</td><td>PROPYL PARABEN</td><td>USP</td><td>0.015 kg</td><td>0.003</td><td>0.00</td></tr><tr><td>5.</td><td>RM000036</td><td>E.D.T.A SODIUM</td><td>USP</td><td>0.015 kg</td><td>0.003</td><td>0.00</td></tr><tr><td>6.</td><td>RM000050</td><td>TRI ETHANOL AMINE</td><td>USP</td><td>1.071 kg</td><td>0.214</td><td>0.00</td></tr><tr><td>7.</td><td>RM000039</td><td>POLYSORBATE-80</td><td>USP</td><td>0.019 kg</td><td>0.004</td><td>0.00</td></tr><tr><td>8.</td><td>RM000037</td><td>CARBOMER-940</td><td>USP</td><td>1.500 kg</td><td>0.300</td><td>0.00</td></tr><tr><td>9.</td><td>PW000001</td><td>PURIFIED WATER</td><td>IH</td><td>131.100</td><td>Q. S</td><td>0.00</td></tr></tbody></table>"
+      },
+      {
+        "type": "Text",
+        "bbox": "293 894 736 908",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "143 21 284 71",
+        "content": "<p>9M</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "375 21 718 65",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswani Road, NH-33, Birkhori, Mathasamund<br></br>CG-493445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "438 21 671 75",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "718 21 931 75",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "482 77 731 93",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "121 104 908 193",
+        "content": "<table border=\"1\">\n<tr>\n<td>PRODUCT NAME</td>\n<td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td>\n</tr>\n<tr>\n<td>MFR NO.</td>\n<td>MFR/BMR/FGS20018/00</td>\n<td>SUPERSEDES</td>\n<td>Nil</td>\n</tr>\n<tr>\n<td>ISSUE DATE</td>\n<td></td>\n<td>EFFECTIVE DATE</td>\n<td>09 APR 2025</td>\n</tr>\n<tr>\n<td>REVISION NO</td>\n<td>NA</td>\n<td></td>\n<td></td>\n</tr>\n</table>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "806 193 908 208",
+        "content": "<p>Page 7 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "Master Formula for packing Material",
+    "bbox": "369 256 650 274",
+    "children": [
+      {
+        "type": "Text",
+        "bbox": "125 277 347 295",
+        "content": "<p>Batch Size: 5000 nos./ 150 kg</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "125 295 321 311",
+        "content": "<p>Product Code: FGS20018</p>"
+      },
+      {
+        "type": "Table",
+        "bbox": "113 311 895 597",
+        "content": "<table border=\"1\">\n<thead>\n<tr>\n<th>Sr. No.</th>\n<th>Item code</th>\n<th>Ingredients /Items</th>\n<th>Specifications No.</th>\n<th>Std. Quantity For Batch</th>\n<th>Issued Quantity</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1.</td>\n<td>PM000711</td>\n<td>LEMI TUBE METRONIDAZOLE VAGINAL GEL 30GM / DIA: 35 MM / STANDY CAP</td>\n<td>IH</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2.</td>\n<td>PM000712</td>\n<td>OUTER CARTON METRONIDAZOLE VAGINAL GEL 30GM</td>\n<td>IH</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>3.</td>\n<td>PM000842</td>\n<td>LEAFLET METRONIDAZOLE VAGINAL GEL 30GMS</td>\n<td>IH</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>4.</td>\n<td>PM002034</td>\n<td>PLASTIC APPLICATOR (35 MM DIA) FOR LEMI TUBE</td>\n<td>IH</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>5.</td>\n<td>PM001766</td>\n<td>CB 5PLY (I.D.: 485X370X210 MM) WHITE PLAIN EXPORT</td>\n<td>IH</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>6.</td>\n<td>PM000147</td>\n<td>BOPP TAPE 3\" PLAN 65 MTR.</td>\n<td>IH</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "Text",
+        "bbox": "281 894 724 913",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "141 21 281 71",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "372 20 720 62",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswani Road, Nil 15, Birkeni, Maharamund<br></br>CG-82440</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "448 21 675 62",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "700 21 905 62",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "481 74 730 88",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "121 104 905 198",
+        "content": "<table border=\"1\"><tr><td>PRODUCT NAME</td><td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td></tr><tr><td>MFR NO.</td><td>MFR/BMR/FGS20018/00</td><td>SUPERSEDES</td><td>Nil</td></tr><tr><td>ISSUE DATE</td><td></td><td>EFFECTIVE DATE</td><td>09 APR 2025</td></tr><tr><td>REVISION NO</td><td>NA</td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "808 188 905 202",
+        "content": "<p>Page 8 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "LIST OF EQUIPMENTWITH I.D. CODE",
+    "bbox": "214 481 810 584",
+    "children": [
+      {
+        "type": "Page-Footer",
+        "bbox": "292 893 736 908",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "138 25 278 75",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "370 22 714 64",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswani Road, NH-13, Birkori, Mahasamund<br></br>CO-493445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "430 15 665 75",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "715 15 925 75",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "479 76 727 90",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "115 95 905 205",
+        "content": "<table border=\"1\">\n<tr>\n<td>PRODUCT NAME</td>\n<td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td>\n</tr>\n<tr>\n<td>MFR NO.</td>\n<td>MFR/BMR/FGS20018/00</td>\n<td>SUPERSEDES</td>\n<td>Nil</td>\n</tr>\n<tr>\n<td>ISSUE DATE</td>\n<td></td>\n<td>EFFECTIVE DATE</td>\n<td>09 APR 2025</td>\n</tr>\n<tr>\n<td>REVISION NO</td>\n<td>NA</td>\n<td></td>\n<td></td>\n</tr>\n</table>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "805 188 905 205",
+        "content": "<p>Page 9 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "LIST OF EQUIPMENTS AND MACHINARY",
+    "bbox": "336 236 683 252",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "120 275 900 680",
+        "content": "<table border=\"1\">\n<thead>\n<tr>\n<th>Sr. No.</th>\n<th>Equipment Used</th>\n<th>Capacity/<br></br>Dimensions</th>\n<th>Operating SOP<br></br>Reference No.</th>\n<th>Cleaning SOP<br></br>Reference No.</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1.</td>\n<td>Wax Phase Vessel</td>\n<td>250 kg</td>\n<td>SOP-PDO050</td>\n<td>SOP-PDO050</td>\n</tr>\n<tr>\n<td>2.</td>\n<td>Manufacturing<br></br>Vessel</td>\n<td>500 kg</td>\n<td>SOP-PDO048</td>\n<td>SOP-PDO048</td>\n</tr>\n<tr>\n<td>3.</td>\n<td>Water Phase vessel</td>\n<td>250 kg</td>\n<td>SOP-PDO049</td>\n<td>SOP-PDO049</td>\n</tr>\n<tr>\n<td>4.</td>\n<td>Transfer Pump</td>\n<td>NA</td>\n<td>SOP-PDO048</td>\n<td>SOP-PDO048</td>\n</tr>\n<tr>\n<td>5.</td>\n<td>Liquid Storage<br></br>Vessel</td>\n<td>300 lit.</td>\n<td>SOP-PDL058</td>\n<td>SOP-PDL058</td>\n</tr>\n<tr>\n<td>6.</td>\n<td>Automatic Tube<br></br>Filling & Sealing<br></br>Machine</td>\n<td>NA</td>\n<td>SOP-PDO057</td>\n<td>SOP-PDO057</td>\n</tr>\n<tr>\n<td>7.</td>\n<td>Packing Conveyor<br></br>Belt</td>\n<td>NA</td>\n<td>9/PDO/CB/075</td>\n<td>9/PDO/CB/075</td>\n</tr>\n<tr>\n<td>8.</td>\n<td>Domino Printing<br></br>Machine</td>\n<td>NA</td>\n<td>SOP-PDT035</td>\n<td>SOP-PDT035</td>\n</tr>\n<tr>\n<td>9.</td>\n<td>Electronic Weighing<br></br>Balance</td>\n<td>600 g</td>\n<td>SOP-QA024/00</td>\n<td>SOP-QA024/00</td>\n</tr>\n<tr>\n<td>10.</td>\n<td>Electronic Weighing<br></br>Balance</td>\n<td>30 kg</td>\n<td>SOP-QA024/00</td>\n<td>SOP-QA024/00</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "Text",
+        "bbox": "295 895 740 910",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "139 27 278 77",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "369 24 711 67",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswan Road, N.H. 53, Birkoti, Mahasamund<br></br>CG-493445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "412 24 638 77",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "708 32 912 58",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "477 79 727 93",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "116 108 905 205",
+        "content": "<table border=\"1\"><tr><td>PRODUCT NAME</td><td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td></tr><tr><td>MFR NO.</td><td>MFR/BMR/FGS20018/00</td><td>SUPERSEDES</td><td>Nil</td></tr><tr><td>ISSUE DATE</td><td></td><td>EFFECTIVE DATE</td><td>09 APR 2025</td></tr><tr><td>REVISION NO</td><td>NA</td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "795 192 905 207",
+        "content": "<p>Page 10 of 31</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "184 481 831 608",
+        "content": "<p>INSTRUCTION &<br></br>PRECAUTION TO BE TAKEN<br></br>DURING MANUFACTURING</p>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "289 897 734 913",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "142 24 281 73",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "372 21 717 63",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswani Road, N.H- 53, Birkeni, Mahasamund<br></br>CG-493445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "425 21 654 68",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "714 33 914 59",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "480 75 731 89",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "121 105 909 200",
+        "content": "<table border=\"1\"><tr><td>PRODUCT NAME</td><td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td></tr><tr><td>MFR NO.</td><td>MFR/BMR/FGS20018/00</td><td>SUPERSEDES</td><td>Nil</td></tr><tr><td>ISSUE DATE</td><td></td><td>EFFECTIVE DATE</td><td>09 APR 2025</td></tr><tr><td>REVISION NO</td><td>NA</td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Text",
+        "bbox": "799 188 909 203",
+        "content": "<p>Page 11 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "Instructions and precautions to be taken during manufacturing and storage",
+    "bbox": "231 257 793 273",
+    "children": [
+      {
+        "type": "List-Group",
+        "bbox": "165 289 894 653",
+        "content": "<ul><li>• During processing maintain the area at temperature not more than 25°C and relative humidity not more than 55%.</li><li>• Ensure the cleanliness of the equipment and area to be used for manufacturing.</li><li>• Ensure all the equipments are calibrated before start of manufacturing.</li><li>• Check the dispensed raw material with the issue slip of raw material and fill the requisite details in columns provided.</li><li>• Wear hand gloves, nose mask and the protective wearing while in operation.</li><li>• Put appropriate status labels for all the equipment and containers during all the stages of processing.</li><li>• All manufacturing operations must be carried out under the supervision of production supervisor.</li><li>• All rejects must be recorded and destroyed under the supervision of competent staff.</li><li>• Competent staff means the person designated for the particular job with respect to the SOP.</li><li>• Store the intermediates and finished formulations at temperature not more than 25°C.</li></ul>"
+      },
+      {
+        "type": "Text",
+        "bbox": "293 893 738 908",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "141 28 281 78",
+        "content": "<p>9M</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "372 28 714 69",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswami Road, N.H. 5B, Birkori, Mahasamund<br></br>CG-493445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "438 25 660 68",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "712 39 918 66",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "480 80 731 95",
+    "children": [
+      {
+        "type": "Text",
+        "bbox": "125 111 634 128",
+        "content": "<p>PRODUCT NAME METRONIDAZOLE VAGINAL GEL USP</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "125 131 750 147",
+        "content": "<p>MFR NO. MFR/BMR/FGS20018/00 SUPERSEDES Nil</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "125 150 653 168",
+        "content": "<p>ISSUE DATE EFFECTIVE DATE</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "125 170 890 188",
+        "content": "<p>REVISION NO. NA 09 APR 2025</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "798 193 911 209",
+        "content": "<p>Page 12 of 31</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "297 528 735 629",
+        "content": "<p>MANUFACTURING<br></br>INSTRUCTION FOR<br></br>CRITICAL PROCESS ALONG<br></br>WITH FLOW DIAGRAM</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "292 898 736 914",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "144 23 283 74",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "374 21 719 66",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswani Road, NH-38, Bhilani, Mahasamund<br></br>CG-145143</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "429 29 656 71",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "723 36 928 62",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "481 77 731 92",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "121 106 909 192",
+        "content": "<table border=\"1\"><tr><td>PRODUCT NAME</td><td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td></tr><tr><td>MFR NO.</td><td>MFR/BMR/FGS20018/00</td><td>SUPERSEDES</td><td>Nil</td></tr><tr><td>ISSUE DATE</td><td></td><td>EFFECTIVE DATE</td><td>09 APR 2025</td></tr><tr><td>REVISION NO</td><td>NA</td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Text",
+        "bbox": "799 191 909 207",
+        "content": "<p>Page 13 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "PROCESS FLOW CHART",
+    "bbox": "408 218 614 233",
+    "children": [
+      {
+        "type": "Diagram",
+        "bbox": "179 271 895 759",
+        "content": "<img alt=\"Process Flow Chart for Metronidazole Vaginal Gel USP. The chart is divided into Step 1 and Step 2. Step 1 includes Decartoning of tubes, Feeding of tubes in cassette, and Weight adjustment. Step 2 includes Dispensing, Weighing, Mixing, pH checking, Standard Batch Size, Filling, Optical checking, Packing, Transfer to B.S.R, and Dispatched. There are also side boxes for In process sample to QC and Finish sample to QC.\"></img><pre>graph TD\n    subgraph Step1 [Step 1]\n        S1_1[Decartoning of tubes] --> S1_2[Feeding of tubes in cassette]\n        S1_2 --> S1_3[Weight adjustment]\n    end\n\n    subgraph Step2 [Step 2]\n        S2_1[Dispensing] --> S2_2[Weighing]\n        S2_2 --> S2_3[Mixing]\n        S2_3 --> S2_4[Standard Batch Size]\n        S2_3 --> S2_5[pH checking]\n    end\n\n    S1_3 --> F[Filling]\n    S2_4 --> F\n    F --> F1[In process sample to QC]\n    F --> S3[Optical checking]\n    S3 --> S4[Packing]\n    S4 --> S5[Transfer to B.S.R]\n    S5 --> S6[Dispatched]\n    S4 --> F2[Finish sample to QC]</pre>"
+      },
+      {
+        "type": "Text",
+        "bbox": "288 895 732 911",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "141 29 281 79",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "373 26 716 69",
+        "content": "<p>9M, INDIA LIMITED<br></br>Paraswati Road, N.H. 51, Bhikoni, Manasamund<br></br>CG-495445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "432 27 656 69",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "713 39 916 64",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "480 81 731 95",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "121 111 909 206",
+        "content": "<table border=\"1\"><tr><td>PRODUCT NAME</td><td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td></tr><tr><td>MFR NO.</td><td>MFR/BMR/FGS20018/00</td><td>SUPERSEDES</td><td>Nil</td></tr><tr><td>ISSUE DATE</td><td></td><td>EFFECTIVE DATE</td><td>09 APR 2025</td></tr><tr><td>REVISION NO</td><td>NA</td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Text",
+        "bbox": "799 193 909 208",
+        "content": "<p>Page 14 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MANUFACTURING INSTRUCTIONS:",
+    "bbox": "139 234 444 250",
+    "children": [
+      {
+        "type": "Text",
+        "bbox": "187 263 447 279",
+        "content": "<p>Check following for its cleanliness.</p>"
+      },
+      {
+        "type": "List-Group",
+        "bbox": "187 284 456 342",
+        "content": "<ol><li>1. Equipments</li><li>2. Manufacturing Area</li><li>3. Hand Gloves, Masks, Scoops etc.</li></ol>"
+      },
+      {
+        "type": "List-Group",
+        "bbox": "145 369 919 759",
+        "content": "<ul><li>• Before starting the manufacturing process, ensure that the certification of Line Clearance has been done for manufacturing area and equipment's from QA officer.</li><li>• The QA Chemist of the dispensing section and manufacturing chemist check Label, Quantities and physical Appearance of materials issued from stores, according to indent.</li><li>• Check the dispensed raw material with the issue slip of raw material and fill the requisite details in columns provided.</li><li>• Maintain identification of materials at all times.</li><li>• Wear nose mask and hand gloves while handling the materials during manufacturing.</li><li>• Ensure the dispensed raw material weighs the requisitioned quantity.</li><li>• Do not start mixing before weighing the raw materials.</li><li>• Documents of the current product are present near the machine</li><li>• Check the removal of previous run materials.</li><li>• Maintain the records of each stage activities to be carried out under the supervision of chemist and approved chemist.</li></ul>"
+      },
+      {
+        "type": "Text",
+        "bbox": "294 898 740 914",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "141 24 281 74",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "371 22 715 66",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswani Road, NH-53, Birkeni, Mahasamund<br></br>CG-493445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "438 35 662 71",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "708 35 912 62",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "479 78 729 93",
+    "children": [
+      {
+        "type": "Text",
+        "bbox": "122 107 274 123",
+        "content": "<p>PRODUCT NAME</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "310 109 632 126",
+        "content": "<p>METRONIDAZOLE VAGINAL GEL USP</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "122 127 202 142",
+        "content": "<p>MFR NO.</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "310 129 500 144",
+        "content": "<p>MFR/BMR/FGS20018/00</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "505 130 616 145",
+        "content": "<p>SUPERSEDES</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "715 131 748 146",
+        "content": "<p>Nil</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "122 147 231 163",
+        "content": "<p>ISSUE DATE</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "505 150 651 166",
+        "content": "<p>EFFECTIVE DATE</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "715 150 886 175",
+        "content": "<p>09 APR 2025</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "122 167 241 183",
+        "content": "<p>REVISION NO</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "310 168 341 183",
+        "content": "<p>NA</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "796 192 907 208",
+        "content": "<p>Page 15 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MANUFACTURINGPROCEDURE",
+    "bbox": "354 513 674 566",
+    "children": [
+      {
+        "type": "Text",
+        "bbox": "284 895 729 913",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "143 19 284 68",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "375 19 720 61",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswani Road, N.H. - 58, Birkori, Mahasamund<br></br>CG-493446</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "451 21 678 62",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "718 36 913 64",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "483 71 732 86",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "120 86 902 196",
+        "content": "<table border=\"1\"><tr><td>PRODUCT NAME</td><td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td></tr><tr><td>MFR NO.</td><td>MFR/BMR/FGS20018/00</td><td>SUPERSEDES</td><td>Nil</td></tr><tr><td>ISSUE DATE</td><td></td><td>EFFECTIVE DATE</td><td>09 APR 2025</td></tr><tr><td>REVISION NO</td><td>NA</td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Text",
+        "bbox": "799 186 902 200",
+        "content": "<p>Page 16 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MANUFACTURING PROCEDURE",
+    "bbox": "139 209 417 225",
+    "children": []
+  },
+  {
+    "section_title": "1. Manufacturing procedure along with control parameters for critical steps:",
+    "bbox": "145 231 730 250",
+    "children": []
+  },
+  {
+    "section_title": "1.1 Decartoning of lami tubes",
+    "bbox": "168 265 400 280",
+    "children": [
+      {
+        "type": "List-Group",
+        "bbox": "185 279 907 322",
+        "content": "<ul><li>1.1.1 Transfer empty tubes from store to production Decartoning area. Open the shipper, remove the tubes and load the tubes in cassette. Send the cassette in the tube filling area wrapping with polybag.</li></ul>"
+      }
+    ]
+  },
+  {
+    "section_title": "1.2 Raw material dispensing",
+    "bbox": "161 320 388 337",
+    "children": []
+  },
+  {
+    "section_title": "Equipment: Weighing Balance",
+    "bbox": "178 335 413 352",
+    "children": [
+      {
+        "type": "List-Group",
+        "bbox": "185 350 907 380",
+        "content": "<ul><li>1.2.1 Prior to commencement for manufacturing, weigh and confirm the raw materials received are as per formulation order.</li></ul>"
+      }
+    ]
+  },
+  {
+    "section_title": "1.3 Gel Preparation:",
+    "bbox": "167 392 340 408",
+    "children": []
+  },
+  {
+    "section_title": "Equipment: Manufacturing Vessel",
+    "bbox": "185 406 448 423",
+    "children": [
+      {
+        "type": "List-Group",
+        "bbox": "183 435 907 557",
+        "content": "<ul><li>1.3.1.1 Take Purified water approx. 50 lit. in manufacturing vessel. Heat up to 65-70°C.</li><li>1.3.1.2 Add Methyl paraben 0.150 Kg and Propyl Paraben 0.015 Kg, E.D.T.A Di Sodium 0.015 Kg respectively. Ensure dissolved completely.</li><li>1.3.1.3 Add Carbomer- 940 1.500 kg into the water Phase Vessel with the help of spatula with continuous Stirring.</li><li>1.3.1.4 Transfer the phase in to the main Manufacturing vessel with the help of vacuum. & continue stirrer and homogenizer., then cool the gel phase up to 42°C.</li></ul>"
+      }
+    ]
+  },
+  {
+    "section_title": "1.3.2 Preparation Of API Phase:",
+    "bbox": "183 560 435 576",
+    "children": [
+      {
+        "type": "List-Group",
+        "bbox": "183 580 907 712",
+        "content": "<ul><li>1.3.2.1 Add Purified water approx. 40 lit. Mono Propylene Glycol 15.000 kg into wax phase tank, heat it up to 40°C.</li><li>1.3.2.2 Add Polysorbate -80 0.019 kg in to the Wax phase vessel and mix for 10 minutes.</li><li>1.3.2.3 Add Metronidazole 1.125 kg in to the Wax phase vessel with continuous stirring then rinse the bag with purified water.</li><li>1.3.2.4 Mix API phase for 10 minutes to get homogeneous mixing.</li><li>1.3.2.5 Transfer both API phase to the main manufacturing tank with the help of vacuum.</li></ul>"
+      }
+    ]
+  },
+  {
+    "section_title": "1.3.3 Mixing & Cooling:",
+    "bbox": "181 734 374 751",
+    "children": [
+      {
+        "type": "List-Group",
+        "bbox": "181 756 907 809",
+        "content": "<ul><li>1.3.3.1 Mix the phase with stirrer and homogenizer for 10 minutes.</li><li>1.3.3.2 Take Tri ethanol Amine 1.071 kg in a container with purified water approx. 10 lit. Mix it well add in to Main mfg. vessel slowly mix with continuous stirrer for 10 minutes.</li></ul>"
+      },
+      {
+        "type": "Text",
+        "bbox": "289 893 733 909",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "146 15 287 65",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "378 19 721 62",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswani Road, N.H. 57, Birkeni, Mahasamund<br></br>CG-793445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "455 21 678 62",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "712 38 912 65",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "485 72 734 90",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "117 96 912 192",
+        "content": "<table border=\"1\"><tr><td>PRODUCT NAME</td><td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td></tr><tr><td>MFR NO.</td><td>MFR/BMR/FGS20018/00</td><td>SUPERSEDES</td><td>Nil</td></tr><tr><td>ISSUE DATE</td><td></td><td>EFFECTIVE DATE</td><td>09 APR 2025</td></tr><tr><td>REVISION NO</td><td>NA</td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Text",
+        "bbox": "798 191 903 207",
+        "content": "<p>Page 17 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "FILLING & SEALINGRECORD",
+    "bbox": "343 508 694 564",
+    "children": [
+      {
+        "type": "Text",
+        "bbox": "266 889 711 913",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "141 24 281 74",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "372 21 718 64",
+        "content": "<p>9M INDEA LIMITED<br></br>Paraswani Road, N.H. 53, Bilkani, Mohasamund<br></br>CG-493445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "448 15 685 75",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "715 15 930 75",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "481 77 730 91",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "121 107 908 191",
+        "content": "<table border=\"1\"><tr><td>PRODUCT NAME</td><td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td></tr><tr><td>MFR NO.</td><td>MFR/BMR/FGS20018/00</td><td>SUPERSEDES</td><td>Nil</td></tr><tr><td>ISSUE DATE</td><td></td><td>EFFECTIVE DATE</td><td>09 APR 2025</td></tr><tr><td>REVISION NO</td><td>NA</td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "800 191 908 206",
+        "content": "<p>Page 18 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "1.4 Filling & Sealing",
+    "bbox": "170 237 341 253",
+    "children": [
+      {
+        "type": "Text",
+        "bbox": "187 252 601 268",
+        "content": "<p>1.4.1 Set the tube filling machine as specification required.</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "Gel filling & sealing record",
+    "bbox": "175 294 380 309",
+    "children": [
+      {
+        "type": "Text",
+        "bbox": "179 308 367 323",
+        "content": "<p>Description of Tube: 30g</p>"
+      },
+      {
+        "type": "Table",
+        "bbox": "121 335 903 581",
+        "content": "<table border=\"1\"><tr><td>Machine Filling Rate</td><td>81 tubes per minute</td></tr><tr><td>Appearance</td><td>Smooth, thickening homogenous gel free from any foreign substances filled in 30 g lami tube.</td></tr><tr><td>pH</td><td>4.0 to 6.5</td></tr><tr><td>Average Fill</td><td>Not less than 30.0 g</td></tr><tr><td>Volume Variation</td><td>30.0 -30.125 g</td></tr><tr><td>Temperature</td><td>Not more than 25°C</td></tr><tr><td>% RH</td><td>Not more than 55%</td></tr></table>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "292 896 736 911",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "140 24 280 74",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "371 21 713 65",
+        "content": "<p>9M INDIA LIMITED<br></br>\n  Paraswani Road, MH 518, Birkoni, Maharashtra<br></br>\n  CG 493445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "428 18 665 80",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "708 21 925 72",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "479 77 728 91",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "118 91 908 205",
+        "content": "<table border=\"1\">\n<tr>\n<td>PRODUCT NAME</td>\n<td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td>\n</tr>\n<tr>\n<td>MFR NO.</td>\n<td>MFR/BMR/FGS20018/00</td>\n<td>SUPERSEDES</td>\n<td>Nil</td>\n</tr>\n<tr>\n<td>ISSUE DATE</td>\n<td></td>\n<td>EFFECTIVE DATE</td>\n<td>09 APR 2025</td>\n</tr>\n<tr>\n<td>REVISION NO</td>\n<td>NA</td>\n<td></td>\n<td></td>\n</tr>\n</table>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "796 191 905 206",
+        "content": "<p>Page 19 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "PACKING",
+    "bbox": "138 217 226 231",
+    "children": [
+      {
+        "type": "Text",
+        "bbox": "164 231 393 246",
+        "content": "<p>Standard batch size: 5000 nos.</p>"
+      },
+      {
+        "type": "List-Group",
+        "bbox": "185 253 568 269",
+        "content": "<ul>\n<li>Check and weigh bulk quantity received for packing.</li>\n</ul>"
+      },
+      {
+        "type": "Table",
+        "bbox": "120 272 898 745",
+        "content": "<table border=\"1\">\n<thead>\n<tr>\n<th>Sr. No.</th>\n<th>Ingredients/ Items</th>\n<th>Specification</th>\n<th>Qty. required in nos.</th>\n<th>Qty. issued in nos.</th>\n<th>Weighed by</th>\n<th>Checked by</th>\n<th>Verified by</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1.</td>\n<td>LEMI TUBE<br></br>METRONIDAZOLE<br></br>VAGINAL GEL 30GM /<br></br>DIA: 35 MM / STANDY<br></br>CAP</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2.</td>\n<td>OUTER CARTON<br></br>METRONIDAZOLE<br></br>VAGINAL GEL 30GM</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>3.</td>\n<td>LEAFLET<br></br>METRONIDAZOLE<br></br>VAGINAL GEL 30GMS</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>4.</td>\n<td>PLASTIC<br></br>APPLICATOR (35 MM<br></br>DIA) FOR LEMI TUBE</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>5.</td>\n<td>CB SPLY (I.D.:<br></br>485X370X210 MM)<br></br>WHITE PLAIN<br></br>EXPORT</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>6.</td>\n<td>BOPP TAPE 3\" PLAN<br></br>65 MTR.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "List-Group",
+        "bbox": "183 746 913 869",
+        "content": "<ul>\n<li>Check all packing material issued from store for control nos. and quantity</li>\n<li>Check cleanliness of machine; obtain line clearance from Quality Assurance dept.</li>\n<li>Before starting the coding machine check overprinting details of Labels, Sign. it and get approval from Quality Assurance and attach to the BPR.</li>\n</ul>"
+      },
+      {
+        "type": "Text",
+        "bbox": "290 896 733 912",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "141 21 281 70",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "372 21 718 64",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswani Road, N.H. 53, Bilkani, Manasamund<br></br>CG-495445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "428 18 662 78",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "708 38 918 64",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "480 76 730 91",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "118 91 910 203",
+        "content": "<table border=\"1\"><tr><td>PRODUCT NAME</td><td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td></tr><tr><td>MFR NO.</td><td>MFR/BMR/FGS20018/00</td><td>SUPERSEDES</td><td>Nil</td></tr><tr><td>ISSUE DATE</td><td></td><td>EFFECTIVE DATE</td><td>09 APR 2025</td></tr><tr><td>REVISION NO</td><td>NA</td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "796 191 907 206",
+        "content": "<p>Page 20 of 31</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "224 494 816 620",
+        "content": "<img alt=\"IN PROCESS TESTING & RELEASE banner\"></img><p>IN PROCESS TESTING<br></br>& RELEASE</p>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "281 893 726 911",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "142 19 281 68",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "372 19 720 61",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswani Road, N.H. - 32, Birkori, Mahasamund<br></br>GG-499445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "448 19 680 68",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "700 33 908 62",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "479 72 732 87",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "121 102 908 198",
+        "content": "<table border=\"1\"><tr><td>PRODUCT NAME</td><td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td></tr><tr><td>MFR NO.</td><td>MFR/BMR/FGS20018/00</td><td>SUPERSEDES</td><td>Nil</td></tr><tr><td>ISSUE DATE</td><td></td><td>EFFECTIVE DATE</td><td>09 APR 2025</td></tr><tr><td>REVISION NO</td><td>NA</td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Text",
+        "bbox": "799 187 908 201",
+        "content": "<p>Page 21 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "In process Testing and Release",
+    "bbox": "395 236 626 253",
+    "children": [
+      {
+        "type": "List-Group",
+        "bbox": "144 273 781 523",
+        "content": "<ul><li>• Intimation to QC department, to collect the samples for analysis.</li><li>• During operation check proper overprinting and ensure in final carton.</li><li>• Check carton for proper overprinting and destroy other cartons that are dirty or torn etc.</li><li>• Complete packing as per packing SOP No. SOP-PDT034</li><li>• Draw control sample as per relevant SOP No.SOP-QA046</li><li>• Transfer the final pack quantity to B.S.R. with approval from Quality Assurance.</li><li>• Do accountability of carton.</li><li>• Excess packing materials are return to store.</li><li>• Do destruction of stereos and other any scrap generated and maintain record</li></ul>"
+      },
+      {
+        "type": "Text",
+        "bbox": "286 890 732 906",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "144 24 285 75",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "375 22 720 66",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswani Road, N.H. 58, Birkeni, Mahasamund<br></br>CG-842443</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "449 21 680 87",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "718 44 925 71",
+        "content": "<p>MASTER COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "482 78 733 93",
+        "content": "<p>MASTER FORMULA RECORD</p>"
+      },
+      {
+        "type": "Table",
+        "bbox": "121 93 915 204",
+        "content": "<table border=\"1\"><tr><td colspan=\"4\"><b>PRODUCT NAME</b></td><td colspan=\"2\"><b>METRONIDAZOLE VAGINAL GEL USP</b></td></tr><tr><td colspan=\"2\"><b>MFR NO.</b></td><td>MFR/BMR/FGS20018/00</td><td colspan=\"2\"><b>SUPERSEDES</b></td><td>Nil</td></tr><tr><td colspan=\"2\"><b>ISSUE DATE</b></td><td></td><td colspan=\"2\"><b>EFFECTIVE DATE</b></td><td><b>09 APR 2025</b></td></tr><tr><td colspan=\"2\"><b>REVISION NO</b></td><td>NA</td><td colspan=\"2\"></td><td></td></tr></table>"
+      },
+      {
+        "type": "Text",
+        "bbox": "802 191 915 207",
+        "content": "<p>Page 22 of 31</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "355 538 693 562",
+        "content": "<p><b>YIELD STATEMENT</b></p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "293 895 737 912",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "146 19 285 68",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "377 29 717 61",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswari Road, N.H. 13, Birkoni, Mahesamund<br></br>GU-38445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "448 21 675 68",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "708 21 911 68",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "485 71 734 85",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "121 85 911 198",
+        "content": "<table border=\"1\"><tr><td colspan=\"3\"><b>PRODUCT NAME</b></td><td colspan=\"3\"><b>METRONIDAZOLE VAGINAL GEL USP</b></td></tr><tr><td colspan=\"2\"><b>MFR NO.</b></td><td>MFR/BMR/FGS20018/00</td><td colspan=\"2\"><b>SUPERSEDES</b></td><td>Nil</td></tr><tr><td colspan=\"2\"><b>ISSUE DATE</b></td><td></td><td colspan=\"2\"><b>EFFECTIVE DATE</b></td><td>09 APR 2025</td></tr><tr><td colspan=\"2\"><b>REVISION NO</b></td><td>NA</td><td colspan=\"2\"></td><td></td></tr></table>"
+      },
+      {
+        "type": "Text",
+        "bbox": "802 186 907 199",
+        "content": "<p>Page 23 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "Yield Reconciliation at manufacturing and filling stage",
+    "bbox": "312 211 720 227",
+    "children": [
+      {
+        "type": "List-Group",
+        "bbox": "135 230 828 333",
+        "content": "<ul style=\"list-style-type: none;\"><li>a) Theoretical yield: _____ in lit. _____ in no. _____ in %</li><li>b) Gel manufactured yield: _____ in lit. _____ in no. _____ in %</li><li>c) Gel filling yield: _____ in lit. _____ in no. _____ in % (NLT 98.5.00%)</li><li>d) In process /quality control samples: _____ in lit. _____ in no.</li><li>e) Loss (b – c – d): _____ in lit. _____ in no. _____ in % (NMT 3.00 %)</li></ul>"
+      }
+    ]
+  },
+  {
+    "section_title": "Yield Reconciliation after packing",
+    "bbox": "410 360 664 375",
+    "children": [
+      {
+        "type": "List-Group",
+        "bbox": "135 380 867 503",
+        "content": "<ul style=\"list-style-type: none;\"><li>a) Theoretical yield: _____ in lit. _____ in no. _____ in %</li><li>b) Yield of tubes received: _____ in lit. _____ in nos. _____ in %</li><li>c) Yield of tubes packed: _____ in lit. _____ in nos. _____ in % (NLT 97.50 %)</li><li>d) Quality control samples: _____ in lit. _____ in nos.</li><li>e) Retention sample: _____ in lit. _____ in nos.</li><li>f) Loss (b – c – d – e): _____ in lit. _____ in nos. _____ in % (NMT 3.00 %)</li></ul>"
+      }
+    ]
+  },
+  {
+    "section_title": "Batch Yield reconciliation statement",
+    "bbox": "381 529 653 544",
+    "children": [
+      {
+        "type": "List-Group",
+        "bbox": "130 549 858 694",
+        "content": "<ul style=\"list-style-type: none;\"><li>a) Theoretical yield: _____ in kg _____ in nos. _____ in %</li><li>b) Gel manufactured yield: _____ in kg _____ in nos. _____ in %</li><li>c) Gel filling yield: _____ in kg _____ in nos. _____ in % (NLT 98.50%)</li><li>d) Yield of tubes packed: _____ in kg _____ in nos. _____ in % (NLT 97.5%)</li><li>e) In process /quality control samples: _____ in kg _____ in nos.</li><li>f) Retention sample: _____ in kg _____ in nos.</li><li>g) Loss (a – d – e – f): _____ in kg _____ nos. _____ in % (NMT 3.00 %)</li></ul>"
+      },
+      {
+        "type": "Text",
+        "bbox": "181 697 450 712",
+        "content": "<p>Final yield should not less than 97 %.</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "131 739 882 757",
+        "content": "<p><b>Note: If yield is not within the permissible yield, investigate the matter and report to QA department.</b></p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "295 892 739 906",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "141 24 282 74",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "372 22 718 66",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswani Road, NH-53, Birkoti, Mahasamund<br></br>OD-750445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "424 24 654 82",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "691 35 908 71",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "480 77 731 92",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "121 106 911 203",
+        "content": "<table border=\"1\"><tr><td>PRODUCT NAME</td><td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td></tr><tr><td>MFR NO.</td><td>MFR/BMR/FGS20018/00</td><td>SUPERSEDES</td><td>Nil</td></tr><tr><td>ISSUE DATE</td><td></td><td>EFFECTIVE DATE</td><td>09 APR 2025</td></tr><tr><td>REVISION NO</td><td>NA</td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "799 191 911 207",
+        "content": "<p>Page 24 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "TESTINGSPECIFICATION",
+    "bbox": "372 517 648 569",
+    "children": [
+      {
+        "type": "Page-Footer",
+        "bbox": "288 895 734 912",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "146 26 288 77",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "379 26 718 68",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswani Road, N.H. 33, Birkori, Mahasamund<br></br>CG-828445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "418 26 648 77",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "706 26 914 77",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "486 80 736 95",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "125 100 914 205",
+        "content": "<table border=\"1\">\n<tr>\n<td>PRODUCT NAME</td>\n<td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td>\n</tr>\n<tr>\n<td>MFR NO.</td>\n<td>MFR/BMR/FGS20018/00</td>\n<td>SUPERSEDES</td>\n<td>Nil</td>\n</tr>\n<tr>\n<td>ISSUE DATE</td>\n<td></td>\n<td>EFFECTIVE DATE</td>\n<td>09 APR 2025</td>\n</tr>\n<tr>\n<td>REVISION NO</td>\n<td>NA</td>\n<td></td>\n<td></td>\n</tr>\n</table>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "803 194 914 209",
+        "content": "<p>Page 25 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "Raw Material Testing Specification",
+    "bbox": "385 221 647 237",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "125 253 904 569",
+        "content": "<table border=\"1\">\n<thead>\n<tr>\n<th>Sr. No.</th>\n<th>Item Code</th>\n<th>Description of material</th>\n<th>Std. as per</th>\n<th>Standard Testing specification No.</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1.</td>\n<td>RM000149</td>\n<td>METRONIDAZOLE USP</td>\n<td>USP</td>\n<td></td>\n</tr>\n<tr>\n<td>2.</td>\n<td>RM000638</td>\n<td>MONO PROPYLENE GLYCOL</td>\n<td>USP</td>\n<td></td>\n</tr>\n<tr>\n<td>3.</td>\n<td>RM000016</td>\n<td>METHYL PARABEN</td>\n<td>USP</td>\n<td></td>\n</tr>\n<tr>\n<td>4.</td>\n<td>RM000593</td>\n<td>PROPYL PARABEN</td>\n<td>USP</td>\n<td></td>\n</tr>\n<tr>\n<td>5.</td>\n<td>RM000036</td>\n<td>E.D.T.A SODIUM</td>\n<td>USP</td>\n<td></td>\n</tr>\n<tr>\n<td>6.</td>\n<td>RM000050</td>\n<td>TRI ETHANOL AMINE</td>\n<td>USP</td>\n<td></td>\n</tr>\n<tr>\n<td>7.</td>\n<td>RM000039</td>\n<td>POLYSORBATE-80</td>\n<td>USP</td>\n<td></td>\n</tr>\n<tr>\n<td>8.</td>\n<td>RM000037</td>\n<td>CARBOMER-940</td>\n<td>USP</td>\n<td></td>\n</tr>\n<tr>\n<td>9.</td>\n<td>PW000001</td>\n<td>PURIFIED WATER</td>\n<td>IH</td>\n<td></td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "293 898 738 914",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "143 34 282 84",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "373 31 711 74",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswati Road, N.H. 53, Birkori, Mahasamund<br></br>CG-493445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "421 39 646 74",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "709 55 914 80",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "481 86 730 100",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "121 103 908 212",
+        "content": "<table border=\"1\"><tr><td>PRODUCT NAME</td><td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td></tr><tr><td>MFR NO.</td><td>MFR/BMR/FGS20018/00</td><td>SUPERSEDES</td><td>Nil</td></tr><tr><td>ISSUE DATE</td><td></td><td>EFFECTIVE DATE</td><td>09 APR 2025</td></tr><tr><td>REVISION NO</td><td>NA</td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Text",
+        "bbox": "799 199 908 214",
+        "content": "<p>Page 26 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "Analytical Specification Semi Finished & Finished Stages",
+    "bbox": "300 227 723 242",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "129 268 893 434",
+        "content": "<table border=\"1\"><thead><tr><th>Sr. No.</th><th>Description</th><th>Std Specification as per</th><th>Testing Specification Reference no.</th></tr></thead><tbody><tr><td>1.</td><td>Semi finish Metronidazole Vaginal Gel USP 30gm</td><td>USP</td><td></td></tr><tr><td>2.</td><td>Finish Metronidazole Vaginal Gel USP 30gm</td><td>USP</td><td></td></tr></tbody></table>"
+      },
+      {
+        "type": "Text",
+        "bbox": "294 905 737 920",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "140 23 281 73",
+        "content": "<p>9M</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "372 22 718 66",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswati Road, NH-53, Birkeni, Mahasamund<br></br>CG-825445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "425 23 655 78",
+        "content": "<p>UNCONTROLLED</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "705 35 915 70",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "480 77 730 93",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "117 105 910 203",
+        "content": "<table border=\"1\"><tr><td>PRODUCT NAME</td><td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td></tr><tr><td>MFR NO.</td><td>MFR/BMR/FGS20018/00</td><td>SUPERSEDES</td><td>Nil</td></tr><tr><td>ISSUE DATE</td><td></td><td>EFFECTIVE DATE</td><td>09 APR 2025</td></tr><tr><td>REVISION NO</td><td>NA</td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "798 192 908 208",
+        "content": "<p>Page 27 of 31</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "182 483 831 588",
+        "content": "<img alt=\"Testing Specification Packing Material banner\"></img><p>TESTING SPECIFICATION<br></br>PACKING MATERIAL</p>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "285 895 730 913",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "143 27 281 78",
+        "content": "<p>9M</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "374 27 715 71",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswani Road, NH-53, Birkoti, Mahasamund<br></br>CG-493445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "438 27 666 71",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "712 48 918 76",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "480 83 731 98",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "121 110 908 208",
+        "content": "<table border=\"1\"><tr><td>PRODUCT NAME</td><td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td></tr><tr><td>MFR NO.</td><td>MFR/BMR/FGS20018/00</td><td>SUPERSEDES</td><td>Nil</td></tr><tr><td>ISSUE DATE</td><td></td><td>EFFECTIVE DATE</td><td>09 APR 2025</td></tr><tr><td>REVISION NO</td><td>NA</td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "798 198 908 213",
+        "content": "<p>Page 28 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "Testing Specification of Packing material",
+    "bbox": "358 236 663 253",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "117 268 895 660",
+        "content": "<table border=\"1\"><thead><tr><th>Sr. No.</th><th>Description of Material</th><th>Item Code</th><th>Testing Specification No.</th></tr></thead><tbody><tr><td>1.</td><td>LEMI TUBE METRONIDAZOLE<br></br>VAGINAL GEL 30GM / DIA: 35 MM /<br></br>STANDY CAP</td><td>PM000711</td><td></td></tr><tr><td>2.</td><td>OUTER CARTON METRONIDAZOLE<br></br>VAGINAL GEL 30GM</td><td>PM000712</td><td></td></tr><tr><td>3.</td><td>LEAFLET METRONIDAZOLE VAGINAL<br></br>GEL 30GMS</td><td>PM000842</td><td></td></tr><tr><td>4.</td><td>PLASTIC APPLICATOR (35 MM DIA)<br></br>FOR LEMI TUBE</td><td>PM002034</td><td></td></tr><tr><td>5.</td><td>CB 5PLY (I.D.: 485X370X210 MM) WHITE<br></br>PLAIN EXPORT</td><td>PM001766</td><td></td></tr><tr><td>6.</td><td>BOPP TAPE 3\" PLAN 65 MTR.</td><td>PM000147</td><td></td></tr></tbody></table>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "283 900 727 919",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "142 21 281 70",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "373 21 717 64",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswani Road, NH-58, Birkori, Mahasamund<br></br>CG-821445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "438 35 662 70",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "712 21 918 64",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "481 76 731 91",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "118 91 911 200",
+        "content": "<table border=\"1\"><tr><td>PRODUCT NAME</td><td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td></tr><tr><td>MFR NO.</td><td>MFR/BMR/FGS20018/00</td><td>SUPERSEDES</td><td>Nil</td></tr><tr><td>ISSUE DATE</td><td></td><td>EFFECTIVE DATE</td><td>09 APR 2025</td></tr><tr><td>REVISION NO</td><td>NA</td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "798 192 908 207",
+        "content": "<p>Page 29 of 31</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "299 229 721 248",
+        "content": "<p>Approved specimen samples of Printed packing material</p>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "279 894 725 913",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "143 23 284 73",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "374 20 720 65",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswani Road, N.H. 58, Birkori, Mansamund<br></br>CG-493445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "450 21 680 75",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "718 33 925 65",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "483 76 733 91",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "120 100 915 205",
+        "content": "<table border=\"1\"><tr><td>PRODUCT NAME</td><td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td></tr><tr><td>MFR NO.</td><td>MFR/BMR/FGS20018/00</td><td>SUPERSEDES</td><td>Nil</td></tr><tr><td>ISSUE DATE</td><td></td><td>EFFECTIVE DATE</td><td>09 APR 2025</td></tr><tr><td>REVISION NO</td><td>NA</td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Page-Footer",
+        "bbox": "800 190 915 205",
+        "content": "<p>Page 30 of 31</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "210 480 815 575",
+        "content": "<img alt=\"Product History banner graphic\"></img>"
+      }
+    ]
+  },
+  {
+    "section_title": "PRODUCT HISTORY",
+    "bbox": "342 522 684 547",
+    "children": [
+      {
+        "type": "Page-Footer",
+        "bbox": "291 895 737 912",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      },
+      {
+        "type": "Image",
+        "bbox": "146 21 287 71",
+        "content": "<img alt=\"9M logo\"></img>"
+      },
+      {
+        "type": "Text",
+        "bbox": "379 24 723 66",
+        "content": "<p>9M INDIA LIMITED<br></br>Paraswani Road, No. 1-53, Birkani, Mahasamund<br></br>CG-493445</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "448 24 674 66",
+        "content": "<p>UNCONTROLLED COPY</p>"
+      },
+      {
+        "type": "Text",
+        "bbox": "729 39 921 63",
+        "content": "<p>MASTER COPY</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "MASTER FORMULA RECORD",
+    "bbox": "487 77 736 93",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "121 90 911 200",
+        "content": "<table border=\"1\"><tr><td>PRODUCT NAME</td><td colspan=\"3\">METRONIDAZOLE VAGINAL GEL USP</td></tr><tr><td>MFR NO.</td><td>MFR/BMR/FGS20018/00</td><td>SUPERSEDES</td><td>Nil</td></tr><tr><td>ISSUE DATE</td><td></td><td>EFFECTIVE DATE</td><td>09 APR 2025</td></tr><tr><td>REVISION NO</td><td>NA</td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Text",
+        "bbox": "802 194 907 209",
+        "content": "<p>Page 31 of 31</p>"
+      }
+    ]
+  },
+  {
+    "section_title": "Product History",
+    "bbox": "453 231 577 248",
+    "children": [
+      {
+        "type": "Table",
+        "bbox": "111 261 895 709",
+        "content": "<table border=\"1\"><tr><td>Batch No.</td><td></td><td></td><td></td></tr><tr><td>Mfg.</td><td></td><td></td><td></td></tr><tr><td>Exp.</td><td></td><td></td><td></td></tr><tr><td>TEST</td><td></td><td></td><td></td></tr><tr><td>Description</td><td></td><td></td><td></td></tr><tr><td>Identification by Chemical</td><td></td><td></td><td></td></tr><tr><td>Average Filled Volume</td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">Assay Claim</td><td><Lower></td><td></td><td></td></tr><tr><td><Upper></td><td></td><td></td></tr><tr><td><Result></td><td></td><td></td></tr></table>"
+      },
+      {
+        "type": "Text",
+        "bbox": "278 895 723 917",
+        "content": "<p>NO CHANGE IS PERMITTED WITHOUT AUTHORIZATION</p>"
+      }
+    ]
+  }
+]

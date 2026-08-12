@@ -16,7 +16,7 @@ const fileToBase64 = (file) => {
  * Submits the PDF file and tag classification to the FastAPI backend OCR endpoint.
  * Throws a structured object containing a 'message' string on failure.
  */
-export async function submitOcr(tag, pdfFile) {
+export async function submitOcr(tag, pdfFile, engine = 'chandra') {
   try {
     if (!tag) {
       throw new Error('A document classification tag must be selected.');
@@ -28,7 +28,8 @@ export async function submitOcr(tag, pdfFile) {
     // Convert file to base64
     const base64Data = await fileToBase64(pdfFile);
 
-    const url = `${config.apiBaseUrl}/api/v1/ocr`;
+    const endpoint = engine === 'docling' ? 'ocr/docling' : 'ocr';
+    const url = `${config.apiBaseUrl}/api/v1/${endpoint}`;
     const response = await fetch(url, {
       method: 'POST',
       headers: {

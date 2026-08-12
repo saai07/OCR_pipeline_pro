@@ -4,3 +4,7 @@ pydantic-settings>=2.0.0
 httpx>=0.24.0
 pymupdf>=1.24.0
 python-multipart>=0.0.6
+docling>=2.117.0
+huggingface_hub
+rapidocr_onnxruntime
+opencv-python-headless

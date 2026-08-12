@@ -13,7 +13,7 @@ export function useOcr() {
     error: null
   });
 
-  const submit = useCallback(async (tag, file) => {
+  const submit = useCallback(async (tag, file, engine = 'chandra') => {
     setState({
       status: 'loading',
       result: null,
@@ -21,7 +21,7 @@ export function useOcr() {
     });
 
     try {
-      const response = await submitOcr(tag, file);
+      const response = await submitOcr(tag, file, engine);
       
       // Clean the markdown output by stripping potential enclosing triple-backtick code blocks
       if (response && response.markdown) {

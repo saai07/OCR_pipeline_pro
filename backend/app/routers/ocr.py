@@ -90,6 +90,24 @@ async def process_ocr(request: OcrRequest):
         # Combine results into a single markdown output separated by page dividers
         markdown_result = "\n\n---\n\n".join(markdown_results)
 
+        # Step D: Parse hierarchy layout tree and save to local disk
+        from app.services.layout_parser import parse_layout_sections
+        import os
+        import json
+        
+        sections = parse_layout_sections(markdown_result)
+        
+        # Local Disk Saving (backend/output/)
+        output_dir = "output"
+        os.makedirs(output_dir, exist_ok=True)
+        filename = f"layout_{request.tag}_{int(time.time())}.json"
+        filepath = os.path.join(output_dir, filename)
+        try:
+            with open(filepath, "w", encoding="utf-8") as f:
+                json.dump(sections, f, indent=2, ensure_ascii=False)
+        except Exception as write_err:
+            print(f"Warning: Failed to save layout file locally: {write_err}")
+
     except HTTPException as he:
         # Reraise FastAPI HTTPExceptions directly
         raise he
@@ -112,5 +130,72 @@ async def process_ocr(request: OcrRequest):
         markdown=markdown_result,
         pages_processed=pages_processed,
         model_used=settings.VLLM_MODEL_NAME,
-        processing_time_ms=round(processing_time_ms, 2)
+        processing_time_ms=round(processing_time_ms, 2),
+        sections=sections
+    )
+
+@router.post(
+    "/ocr/docling",
+    response_model=OcrResponse,
+    status_code=status.HTTP_200_OK,
+    summary="Process PDF OCR using local Docling + RapidOCR",
+    description="Processes PDF document layout extraction locally on CPU using Docling parser with ONNX models."
+)
+async def process_ocr_docling(request: OcrRequest):
+    # 1. Validate tag
+    allowed_tags = settings.allowed_tags_list
+    if request.tag not in allowed_tags:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail=f"Invalid tag '{request.tag}'. Allowed tags: {', '.join(allowed_tags)}"
+        )
+
+    # 2. Validate PDF base64 format and size
+    if not request.pdf_base64.strip():
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="PDF base64 content cannot be empty."
+        )
+
+    # Clean the base64 string if it contains commas
+    base64_data = request.pdf_base64
+    if "," in base64_data:
+        base64_data = base64_data.split(",", 1)[1]
+
+    start_time = time.perf_counter()
+    try:
+        from app.services.docling_processor import docling_processor
+        import os
+        import json
+        
+        # Run directly in main thread to avoid thread-executor deadlocks with PyTorch/ONNX on Windows
+        markdown_result, sections = docling_processor.process_pdf(base64_data)
+
+        # Local Disk Saving (backend/output/)
+        output_dir = "output"
+        os.makedirs(output_dir, exist_ok=True)
+        filename = f"layout_docling_{request.tag}_{int(time.time())}.json"
+        filepath = os.path.join(output_dir, filename)
+        try:
+            with open(filepath, "w", encoding="utf-8") as f:
+                json.dump(sections, f, indent=2, ensure_ascii=False)
+        except Exception as write_err:
+            print(f"Warning: Failed to save docling layout file locally: {write_err}")
+
+    except Exception as e:
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"An unexpected error occurred during Docling parsing execution: {str(e)}"
+        )
+
+    end_time = time.perf_counter()
+    processing_time_ms = (end_time - start_time) * 1000
+
+    return OcrResponse(
+        tag=request.tag,
+        markdown=markdown_result,
+        pages_processed=1,  # Local Docling processes document in a single stream
+        model_used="local-docling-rapidocr",
+        processing_time_ms=round(processing_time_ms, 2),
+        sections=sections
     )
